@@ -4,6 +4,6 @@
 // NUNCA coloque aqui a chave "secret" (sb_secret_...) nem a "service_role".
 // Com os campos vazios, o app funciona só no aparelho, sem login.
 window.MF_CONFIG = {
-  supabaseUrl: "",   // ex.: https://abcdefghijklmnop.supabase.co
-  supabaseKey: ""    // ex.: sb_publishable_xxxxxxxxxxxxxxxx
+  supabaseUrl: "https://mhfmyljsjuumipgzubvl.supabase.co",   // ex.: https://abcdefghijklmnop.supabase.co
+  supabaseKey: "sb_publishable_DR9eZK-pqNNqot_5DL2qiw_akNGx1Nu"    // ex.: sb_publishable_xxxxxxxxxxxxxxxx
 };
